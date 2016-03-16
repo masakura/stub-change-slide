@@ -155,7 +155,7 @@ public class HogeClientStub : HogeClient
 
 こうしておいて...
 
-``csharp
+```csharp
 public static void Main()
 {
     // スタブが使われるようにする
