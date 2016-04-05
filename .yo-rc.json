@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Stub Change",
+    "packageVersion": "0.0.0",
+    "revealTheme": "night",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "masakura",
+    "githubRepository": "stub-change-slide"
+  }
+}
