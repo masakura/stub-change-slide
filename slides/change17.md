@@ -1,5 +1,5 @@
 #### 形としてはこれでほぼ OK!
 
-ToDo 図で解説
+![UML](resources/uml1.png);
 
-ToDo GitHubForm がスタブに直接的には依存しなくなったことを強調
+GitHubForm が直接的には依存しなくなった
