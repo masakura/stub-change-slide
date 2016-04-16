@@ -4,7 +4,7 @@
 ```csharp
 namespace Stub
 {
-    public class GitHubClientStub : GitHub
+    public class GitHubClientStub : GitHubClient
     {
         // ...
     }
